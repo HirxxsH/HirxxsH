@@ -34,5 +34,5 @@ Im 18 And I Live In Tehran
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, React, Bootstrap, C#
+Javascript, HTML, CSS, Bootstrap, C#
 
