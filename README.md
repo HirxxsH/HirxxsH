@@ -18,6 +18,8 @@
 [![](https://discord.c99.nl/widget/theme-1/922384082225229885.png)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HirxxsH&icon=0&color=0)](https://visitcount.itsvg.in)
+[](https://visitcount.itsvg.in/api?id=HirxxsH&icon=0&color=0)]
+<br>
+[](https://visitcount.itsvg.in)
 
 
