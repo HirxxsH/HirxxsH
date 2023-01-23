@@ -1,5 +1,5 @@
 # 👤 About Me:
-• Hi, I'm Hiroosh! 👋🏻<br><br>• Im a Junior Front-End developer<br><br>• 👩‍💻 I'm currently working on My Portfolio<br><br>• 🧠 I'm currently learning Back-End (Php)<br><br>• 🥂 How to reach me? My Email (hiroosh@yahoo.com)<br>
+• Hi, I'm Hiroosh! 👋🏻<br><br>• Im a Junior Front-End developer And a Discord Developer<br><br>• 👩‍💻 I'm currently working on My Portfolio<br><br>• 🧠 I'm currently learning Back-End (Php)<br><br>• 🥂 How to reach me? My Email (hiroosh@yahoo.com)<br>
 
 
 ## 🌐 Socials:
