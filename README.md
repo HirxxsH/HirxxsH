@@ -1,5 +1,5 @@
 # 👤 About Me:
-• 👋🏻 Hi, I'm Hiroosh Mehdipour! 🏻<br><br>• 👨🏻‍💻 Im a Junior Front-End developer And a Discord Developer<br><br>• 🔧 I'm currently working on Domino Bot V1.0<br><br>• 🧠 I'm currently learning Back-End (Php)<br><br>• 🥂 If You Wanna Contact Me Just Mail Me! (hiroosh@yahoo.com)<br>
+• 👋🏻 Hi, I'm Hiroosh Mehdipour! 🏻<br><br>• 👨🏻‍💻 Im a Junior Front-End developer, Musician And a Discord Developer<br><br>• 🔧 I'm currently working on Domino Bot V1.0<br><br>• 🧠 I'm currently learning Back-End (Php)<br><br>• 🥂 If You Wanna Contact Me Just Mail Me! (hiroosh@yahoo.com)<br>
 
 
 ## 🌐 Socials:
